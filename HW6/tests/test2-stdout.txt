@@ -1,0 +1,13 @@
+Node 1 has 1 incoming pointers
+Node 2 has 1 incoming pointers
+Node 3 has 1 incoming pointers
+Node 5 has 2 incoming pointers
+Node 6 has 3 incoming pointers
+Node 7 has 1 incoming pointers
+Node 9 has 1 incoming pointers
+Node 10 has 1 incoming pointers
+Node 11 has 2 incoming pointers
+Node 12 has 4 incoming pointers
+Node 13 has 1 incoming pointers
+Node 14 has 1 incoming pointers
+Node 15 has 1 incoming pointers
