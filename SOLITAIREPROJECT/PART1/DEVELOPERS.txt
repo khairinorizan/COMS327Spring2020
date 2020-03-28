@@ -1,0 +1,15 @@
+Who did what :-
+
+Development of Solitaire.c (Developed by Dan, proofreading and testing by Khairi)
+Makefile - Khairi
+
+functions :
+int main(int argc, char *argv[]); //Created by Dan
+void proc(FILE *inf); //Created by Dan. Modified, Fixed, and Tested by Khairi
+void keyworkcheck(); //Created by Dan. Tested by Khairi
+void tableaucheck(); //Created by Dan. Modified, Fixed, and Tested by Khairi
+void stockcheck(); //Created by Dan. Modified, Fixed, and Tested by Khairi
+bool uncoverOrderCheck(char* arr); // Created by Khairi. Modified, Fixed, and Tested by Khairi
+bool suitCheck(char c1, char c2); //Created by Dan. Tested by Khairi
+
+
