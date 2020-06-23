@@ -1,0 +1,15 @@
+Useful Links:
+Building Dashboard:
+https://www.pluralsight.com/guides/building-a-dashboard-in-react
+
+SpringBoot Stuff:
+https://spring.io/guides/gs/accessing-data-mysql/#initial
+https://github.com/in28minutes/jpa-with-hibernate
+
+Create PDF:
+https://react-pdf.org/
+https://dev.to/finallynero/generating-pdf-documents-in-react-using-react-pdf-4ka7
+
+Export PDF:
+https://www.npmjs.com/package/react-export-excel
+
